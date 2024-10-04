@@ -8,6 +8,4 @@ Fuera del trabajo, disfruto colaborar en proyectos de código abierto y particip
 - 👀 Me interesa **el desarrollo de software, la inteligencia artificial y las tecnologías emergentes**.
 - 🌱 Actualmente estoy aprendiendo **sobre frameworks de JavaScript como React y Node.js**.
 - 💞️ Busco colaborar en **proyectos de código abierto relacionados con Odoo y desarrollo web**.
-- 📫 Puedes contactarme en **[tu dirección de correo electrónico] o en LinkedIn [tu perfil de LinkedIn]**.
-- 😄 Pronombres: **él/ella**.
 - ⚡ Dato curioso: **me encanta mejorar mi hogar utilizando domótica**.
