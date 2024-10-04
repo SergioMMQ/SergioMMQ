@@ -1,8 +1,8 @@
 ## ¡Hola! 👋 Soy @SergioMMQ
 
-Soy un apasionado desarrollador de software con más de X años de experiencia en **desarrollo web**, **aplicaciones móviles** y **soluciones empresariales**. Me gusta aprender nuevas tecnologías y aplicar metodologías ágiles para entregar proyectos eficientes y de alta calidad.
+Soy un apasionado desarrollador de software con experiencia en **desarrollo web**, **manejo de erp** y **soluciones empresariales**. Me gusta aprender nuevas tecnologías y aplicar metodologías ágiles para entregar proyectos eficientes y de alta calidad.
 
-Fuera del trabajo, disfruto colaborar en proyectos de código abierto y participar en actividades como **robotizar muebles**.
+Fuera del trabajo, disfruto colaborar en proyectos de código abierto y participar en actividades como **hacer deporte, escuchar musica y jugar con mis amigos en linea. **.
 
 ### Intereses
 - 👀 Me interesa **el desarrollo de software, la inteligencia artificial y las tecnologías emergentes**.
